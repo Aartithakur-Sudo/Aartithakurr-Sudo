@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Aarti Thakur</h1>
-<h3 align="center">A passionate about torturing the data and make it confess anything.</h3>
+<h3 align="center">I'm passionate about torturing the data and make it confess anything.</h3>
+<img align="center" alt="Coding" width="400" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aartithakur-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="aartithakur-sudo" /> </p>
 
@@ -18,7 +20,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Aartithakur-Sudo?tab=repositories](https://github.com/Aartithakur-Sudo?tab=repositories)
 
 - 💬 Ask me about **Microsoft Excel, MySQL Python**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+
+<img align="right" alt="Coding" width="400" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif">
+
 - 📫 How to reach me **aartithakur037@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1tiU6me72DemNBD3_G0rEdn9GRxJU5nGbE2bkE_Wm_7A/edit?usp=sharing](https://docs.google.com/document/d/1tiU6me72DemNBD3_G0rEdn9GRxJU5nGbE2bkE_Wm_7A/edit?usp=sharing)
